@@ -4,7 +4,7 @@ Link to the Website :
 
 https://mavendataguy.github.io/dashboard/
 
-## This Dashboard helps the HR department to make informed decision about hiring
+* This Dashboard helps the HR department to make informed decision about hiring
 
 * It helps HR meet the diversity & Inclusion goals.
 
